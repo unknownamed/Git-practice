@@ -1,3 +1,7 @@
+<a id="project-overview-added"></a>
+
+[프로젝트 안내](#project-overview-added) · [기존 README 전체 내용](#original-readme-preserved)
+
 # Git Command Practice
 
 **Git 명령어를 직접 사용하며 역할과 작업 흐름을 정리한 실습 저장소입니다.**
@@ -31,3 +35,18 @@ git log --oneline --graph
 ```
 
 이 저장소는 실행 애플리케이션이 아닌 학습 기록입니다. [Git·GitHub 개념 가이드](https://github.com/unknownamed/Git-GitHub-Quick-Reference-Guide)와 함께 볼 수 있습니다.
+
+---
+
+<a id="original-readme-preserved"></a>
+
+## 기존 README 전체 내용
+
+# GIT 명령어 실습
+- (완료) ADD
+- (완료) COMMIT
+- (완료) PUSH
+- (완료) MERGE
+- RESET
+- (완료) TAG
+- (완료) REVERT
